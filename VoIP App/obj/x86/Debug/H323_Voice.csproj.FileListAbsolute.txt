@@ -1,0 +1,13 @@
+C:\Users\Raito\Desktop\Video_Voice_Conferencing\Client 1\bin\x86\Debug\H323_Voice.exe
+C:\Users\Raito\Desktop\Video_Voice_Conferencing\Client 1\bin\x86\Debug\H323_Voice.pdb
+C:\Users\Raito\Desktop\Video_Voice_Conferencing\Client 1\bin\x86\Debug\Interop.ATLH323Lib.dll
+C:\Users\Raito\Desktop\Video_Voice_Conferencing\Client 1\bin\x86\Debug\AxInterop.ATLH323Lib.dll
+C:\Users\Raito\Desktop\Video_Voice_Conferencing\Client 1\obj\x86\Debug\Interop.ATLH323Lib.dll
+C:\Users\Raito\Desktop\Video_Voice_Conferencing\Client 1\obj\x86\Debug\AxInterop.ATLH323Lib.dll
+C:\Users\Raito\Desktop\Video_Voice_Conferencing\Client 1\obj\x86\Debug\H323_Voice.csproj.ResolveComReference.cache
+C:\Users\Raito\Desktop\Video_Voice_Conferencing\Client 1\obj\x86\Debug\H323_Voice.Form1.resources
+C:\Users\Raito\Desktop\Video_Voice_Conferencing\Client 1\obj\x86\Debug\H323_Voice.csproj.GenerateResource.cache
+C:\Users\Raito\Desktop\Video_Voice_Conferencing\Client 1\obj\x86\Debug\H323_Voice.csproj.CoreCompileInputs.cache
+C:\Users\Raito\Desktop\Video_Voice_Conferencing\Client 1\obj\x86\Debug\H323_Voice.exe
+C:\Users\Raito\Desktop\Video_Voice_Conferencing\Client 1\obj\x86\Debug\H323_Voice.pdb
+C:\Users\Raito\Desktop\Video_Voice_Conferencing\Client 1\obj\x86\Debug\H323_Voice.csprojAssemblyReference.cache

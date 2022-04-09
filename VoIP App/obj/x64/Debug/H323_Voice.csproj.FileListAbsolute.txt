@@ -1,0 +1,2 @@
+C:\Users\Raito\Desktop\Video_Voice_Conferencing\Client 1\obj\x64\Debug\H323_Voice.csprojAssemblyReference.cache
+C:\Users\Raito\Desktop\Video_Voice_Conferencing\Client 1\obj\x64\Debug\Interop.ATLH323Lib.dll
