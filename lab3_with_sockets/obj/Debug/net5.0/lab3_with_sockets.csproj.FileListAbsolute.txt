@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\lab3_with_sockets\obj\Debug\net5.0\lab3_with_sockets.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\lab3_with_sockets\obj\Debug\net5.0\lab3_with_sockets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\lab3_with_sockets\obj\Debug\net5.0\lab3_with_sockets.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\lab3_with_sockets\obj\Debug\net5.0\lab3_with_sockets.AssemblyInfo.cs
+C:\Users\user\Desktop\lab3_with_sockets\obj\Debug\net5.0\lab3_with_sockets.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\lab3_with_sockets\bin\Debug\net5.0\lab3_with_sockets.exe
+C:\Users\user\Desktop\lab3_with_sockets\bin\Debug\net5.0\lab3_with_sockets.deps.json
+C:\Users\user\Desktop\lab3_with_sockets\bin\Debug\net5.0\lab3_with_sockets.runtimeconfig.json
+C:\Users\user\Desktop\lab3_with_sockets\bin\Debug\net5.0\lab3_with_sockets.runtimeconfig.dev.json
+C:\Users\user\Desktop\lab3_with_sockets\bin\Debug\net5.0\lab3_with_sockets.dll
+C:\Users\user\Desktop\lab3_with_sockets\bin\Debug\net5.0\ref\lab3_with_sockets.dll
+C:\Users\user\Desktop\lab3_with_sockets\bin\Debug\net5.0\lab3_with_sockets.pdb
+C:\Users\user\Desktop\lab3_with_sockets\obj\Debug\net5.0\lab3_with_sockets.dll
+C:\Users\user\Desktop\lab3_with_sockets\obj\Debug\net5.0\ref\lab3_with_sockets.dll
+C:\Users\user\Desktop\lab3_with_sockets\obj\Debug\net5.0\lab3_with_sockets.pdb
+C:\Users\user\Desktop\lab3_with_sockets\obj\Debug\net5.0\lab3_with_sockets.genruntimeconfig.cache
